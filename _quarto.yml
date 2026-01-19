@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "SDS 361"
+  title: "Data Analysis 361"
   navbar:
     left:
       - href: index.qmd
